@@ -2,6 +2,8 @@
 
 ### Repositories
 
+* Odoo - [Source](https://github.com/documentation-uz/odoo) • [Website](http://odoo.documentation.uz/)
+
 * Python - [Source](https://github.com/documentation-uz/python) • [Website](http://python.documentation.uz/)
 
 * Django - [Source](https://github.com/documentation-uz/django) • [Website](http://django.documentation.uz/)
